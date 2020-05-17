@@ -1,6 +1,0 @@
-[submodule "themes/minimal"]
-	path = themes/minimal
-	url = https://github.com/calintat/minimal.git
-[submodule "coolfish007.github.io"]
-	path = coolfish007.github.io
-	url = git@github.com:coolfish007/coolfish007.github.io.git
